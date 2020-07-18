@@ -1,6 +1,6 @@
 ### Getting Started
 
-There are two methods for getting started with this repo.
+You can use the link below to getting started...
 
 #### Familiar with Git?
 
